@@ -1071,7 +1071,7 @@ async def top(ctx: discord.Interaction):
     await ctx.response.send_message(embed=embed)
 
 try:
-  client.run('MTAyNDY5NjQxMzg0NzgyMjM0Ng.GpACyd.urGEF-I1ti4shj8K6FFx0VADWOIdUuqGkt15AQ')
+  client.run("token")
 except:
   print("[ Krytyczny Błąd ] - Token był offline dłużej niż 10 sekund")
 #asyncio.run(main())

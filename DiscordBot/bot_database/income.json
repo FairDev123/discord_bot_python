@@ -1,0 +1,58 @@
+{
+ "poniedzia\u0142ek": {
+  "05:00": true,
+  "09:00": false,
+  "13:00": false,
+  "17:00": false,
+  "21:00": false,
+  "01:00": true
+ },
+ "wtorek": {
+  "05:00": false,
+  "09:00": false,
+  "13:00": true,
+  "17:00": false,
+  "21:00": false,
+  "01:00": false
+ },
+ "sroda": {
+  "05:00": true,
+  "09:00": true,
+  "13:00": true,
+  "17:00": true,
+  "21:00": true,
+  "01:00": true
+ },
+ "czwartek": {
+  "05:00": true,
+  "09:00": true,
+  "13:00": true,
+  "17:00": true,
+  "21:00": true,
+  "01:00": true
+ },
+ "piatek": {
+  "05:00": false,
+  "09:00": false,
+  "13:00": false,
+  "17:00": false,
+  "21:00": false,
+  "01:00": false
+ },
+ "sobota": {
+  "05:00": false,
+  "09:00": false,
+  "13:00": false,
+  "17:00": false,
+  "21:00": false,
+  "01:00": false
+ },
+ "niedziela": {
+  "05:00": false,
+  "09:00": false,
+  "13:00": false,
+  "17:00": false,
+  "21:00": false,
+  "01:00": false
+ }
+}

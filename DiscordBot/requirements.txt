@@ -1,0 +1,9 @@
+discord
+numpy
+pandas
+requests
+mojang
+openai
+pillow
+googletrans
+
